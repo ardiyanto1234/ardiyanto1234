@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moch Rifaul ardiyanto</h1>
-<h3 align="center">Saya Dari Jawa</h3>
+<h3 align="center">I'm a beginner programmer and I mostly program Android applications and the only languages ​​I master are Dart and Android Studio</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
